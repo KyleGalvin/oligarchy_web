@@ -1472,7 +1472,7 @@ figcaption {
   transition: opacity 200ms ease, -webkit-transform 200ms ease;
   transition: transform 200ms ease, opacity 200ms ease;
   transition: transform 200ms ease, opacity 200ms ease, -webkit-transform 200ms ease;
-  color: #1d1d1d;
+  color: #cbd5df;
   text-align: left;
 }
 
@@ -2401,7 +2401,7 @@ figcaption {
 }
 
 .card-text-link:hover {
-  color: #33383f;
+  color: #99a4af;
 }
 
 .image-cover {
