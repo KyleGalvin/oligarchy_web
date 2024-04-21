@@ -506,6 +506,13 @@ figcaption {
   background-image: linear-gradient(54deg, rgba(119, 143, 193, 0.75), rgba(73, 64, 99, 0.45) 38%), linear-gradient(241deg, rgba(119, 143, 193, 1), rgba(73, 64, 99, 1) 56%);
 }
 
+.darktext {
+  color: #000;
+}
+.darktext a {
+  color: #44d;
+}
+
 .section.daek-page-header {
   padding-top: 96px;
   padding-bottom: 32px;
