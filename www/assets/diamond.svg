@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20.433891mm"
+   height="35.329536mm"
+   viewBox="0 0 20.433891 35.329536"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="diamond.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.72426347"
+     inkscape:cx="322.39649"
+     inkscape:cy="457.70636"
+     inkscape:window-width="1350"
+     inkscape:window-height="1041"
+     inkscape:window-x="1823"
+     inkscape:window-y="958"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.026469,-27.308433)">
+    <g
+       id="g20"
+       inkscape:label="diamonds"
+       transform="matrix(0.10615602,0,0,0.10615602,-52.375876,-22.593329)"
+       style="display:inline;fill:#1a1a1a">
+      <path
+         style="display:inline;fill:#1a1a1a;fill-opacity:1"
+         d="M 778.49355,531.08462 838.85536,636.6557 777.99674,740.73636 717.88333,636.15889 Z"
+         id="path4"
+         inkscape:label="inner diamond" />
+      <path
+         id="path5"
+         style="display:inline;fill:#1a1a1a"
+         d="M 777.92128,470.07944 682.03711,636.19336 778.3604,802.88709 874.52634,636.46178 Z M 777.80953,501.1215 855.95878,636.41071 777.9635,771.24549 700.30469,636.36914 Z"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:label="outer diamond" />
+    </g>
+  </g>
+</svg>
